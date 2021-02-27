@@ -11,7 +11,7 @@ app = Flask(__name__)
 AWESOMENESS = [
     'awesome', 'terrific', 'fantastic', 'neato', 'fantabulous', 'wowza',
     'oh-so-not-meh', 'brilliant', 'ducky', 'coolio', 'incredible',
-    'wonderful', 'smashing', 'lovely']
+    'wonderful', 'smashing', 'lovely', 'pretty']
 
 
 @app.route('/')
